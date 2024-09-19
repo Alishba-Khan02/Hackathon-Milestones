@@ -1,0 +1,96 @@
+
+/* General Styling */
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #e0f7f9; 
+    margin: 0;
+    padding: 150px;
+}
+
+
+.resume-container {
+    display: flex;
+    background-color: #ffffff; 
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 19px 38px, rgba(0, 0, 0, 0.12) 0px 15px 12px;
+}
+
+/* Left Section Styling */
+.left-section {
+    background-color: #3c4647; 
+    color: white;
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    margin-top: 10%;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 10px 0;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 18px;
+    text-align: center;
+    padding: 2%;
+    margin: 5% 0;
+    color: #6ac1c4; 
+    border-radius: 10px;
+    box-shadow: 0 0 15px #fffb1c; 
+    font-weight: 500;
+}
+
+ul {
+    list-style-type: disc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+
+/* Right Section Styling */
+.right-section {
+    padding: 20px;
+    width: 65%;
+}
+
+/* Button Styling */
+button {
+    font-family: "Poppins", sans-serif;
+    background-color: #cd7c0b; 
+    color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+
+.btn{
+    font-family: "Poppins", sans-serif;
+    background-color: #cd7c0b; 
+    color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 18px;
+}
